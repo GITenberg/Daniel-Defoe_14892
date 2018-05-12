@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5735
     wikipedia: http://en.wikipedia.org/wiki/William_Minto
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14892#Daniel-Defoe
 gutenberg_issued: '2005-02-03'
 gutenberg_type: Text
 identifiers:
